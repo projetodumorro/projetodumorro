@@ -39,6 +39,8 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 <img align="center" alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
+![Snake animation](https://github.com/projetodumorro/projetodumorro/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀Equipe
 
 PI - Feito pelo grupo 1 - Generation65 entre em  contato!👋
