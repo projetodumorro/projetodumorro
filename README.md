@@ -31,7 +31,7 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 ### 💻Tecnologias Utilizadas
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projetodumorro&hide_progress=true)
 
 
 <div style="display: inline_block"><br>
