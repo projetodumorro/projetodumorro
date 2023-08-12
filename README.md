@@ -44,7 +44,7 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 
 
 
-![DuMorro GitHub stats](https://github-readme-stats.vercel.app/api?username=projetodumorro&show_icons=true&theme=radical)
+[![DuMorro GitHub stats(https://github-readme-stats.vercel.app/api?username=projetodumorro&show_icons=true&theme=radical)]
 
 ## 🤜🤛Equipe
 
