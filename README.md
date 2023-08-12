@@ -30,7 +30,7 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 
 ### 💻Tecnologias Utilizadas
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={projetodumorro}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?projetodumorro={projetodumorro}&theme=blue-green
 
 
 <div style="display: inline_block"><br>
