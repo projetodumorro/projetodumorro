@@ -37,7 +37,7 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=projetodumorro&show_icons=true&theme=radical" />
 </div>
 
 ![DuMorro GitHub stats](https://github-readme-stats.vercel.app/api?username=projetodumorro&show_icons=true&theme=radical)
