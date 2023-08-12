@@ -41,6 +41,9 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 <img align="center" alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
+
+
+
 ![DuMorro GitHub stats](https://github-readme-stats.vercel.app/api?username=projetodumorro&show_icons=true&theme=radical)
 
 ## 🤜🤛Equipe
