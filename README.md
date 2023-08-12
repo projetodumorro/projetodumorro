@@ -41,7 +41,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?projetodumorro={projetodum
 <img align="center" alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
-
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?projetodumorro={projetodumorro}&theme=blue-green)
 
 ## 🤜🤛Equipe
 
