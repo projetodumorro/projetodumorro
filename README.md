@@ -10,7 +10,7 @@ O projeto DuMorro é um marketplace inovador desenvolvido com base na 11ª Objet
 
 ## Objetivos
 
-### **Promoção do Desenvolvimento Local:** 
+### 🚀**Promoção do Desenvolvimento Local:** 
 O DuMorro visa empoderar pequenos empreendedores, artesãos e prestadores de serviços locais, oferecendo-lhes uma plataforma para comercializar seus produtos e serviços de forma eficiente.
 
 ### **Incentivo ao Consumo Responsável:**
@@ -21,7 +21,7 @@ O marketplace se concentra em incluir grupos socialmente vulneráveis, oferecend
 
 ### Recursos da Plataforma
 
-### **Listagem de Produtos e Serviços:**
+### 📈**Listagem de Produtos e Serviços:**
 Os vendedores locais podem criar listagens para seus produtos e serviços, incluindo descrições, imagens e preços.
 
 ### **Cadastro do Vendedor/Cliente:** 
@@ -29,6 +29,8 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 
 
 ### 💻Tecnologias Utilizadas
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={projetodumorro}&theme=blue-green
 
 
 <div style="display: inline_block"><br>
@@ -39,9 +41,9 @@ Cada usuário tem um cadastro onde podem ver seus itens de vendas/compras, crian
 <img align="center" alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/projetodumorro/projetodumorro/blob/output/github-contribution-grid-snake.svg)
 
-## 🚀Equipe
+
+## 🤜🤛Equipe
 
 PI - Feito pelo grupo 1 - Generation65 entre em  contato!👋
 
