@@ -4,7 +4,7 @@ Logo
 
 ## Descrição do Projeto
 
-O projeto DuMorro é um marketplace inovador desenvolvido com base na 11ª Objetivo de Desenvolvimento Sustentável (ODS) da ONU, que busca tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis. O objetivo principal do DuMorro é impulsionar a economia local💰, promovendo a compra e venda de produtos e serviços dentro das próprias comunidades, fortalecendo assim os laços sociais e econômicos locais.
+O projeto DuMorro é um marketplace inovador desenvolvido com base no 11ª Objetivo de Desenvolvimento Sustentável (ODS) estabelecido pela ONU, que busca tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis. O objetivo principal do DuMorro é impulsionar a economia local💰, promovendo a compra e venda de produtos e serviços dentro das próprias comunidades, fortalecendo assim os laços sociais e econômicos.
 
 
 
